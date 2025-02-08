@@ -15,6 +15,8 @@ To set up the project, follow these steps:
    ```sh
    docker compose build
    ```
+3. create .env inside backend folder, you can find .env.example
+4. create .env inside frontend folder, you can find .env.example
 
 ## Starting the Project
 Once the build process is complete, start the project with:
